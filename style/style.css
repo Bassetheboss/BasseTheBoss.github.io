@@ -122,3 +122,11 @@ body {
     display: -webkit-flex;
     display: flex;
   }
+
+  .image {
+    float: right; 
+    margin-left: 10px; 
+    width: 20%;
+    height: 20%;
+    border: 5px solid #d3e010;
+}
