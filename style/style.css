@@ -130,3 +130,11 @@ body {
     height: 20%;
     border: 5px solid #d3e010;
 }
+
+@media (max-width: 768px) {
+    .container {
+        height: 100vh; /* 100% viewport height */
+        width: 100vw; /* 100% viewport width */
+        padding: 20px;
+    }
+}
